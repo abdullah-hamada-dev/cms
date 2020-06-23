@@ -1,0 +1,37 @@
+body{
+    background-color: #2f4050;
+}
+
+ .col-sm-10{
+     background-color: #ffffff;
+     border: solid;
+ }
+
+ #side-menu a {
+     color: #9fb1c2;
+ }
+
+ #side-menu .active a {
+    color: #ffffff;
+    background-color: #27aae1;
+    font-weight: bold;
+ }
+
+ #side-menu a:hover{
+     color: #ffffff;
+     background-color: #1ab394;
+     font-weight: bold;
+     display: block;
+ }
+
+
+#main-footer{
+	background: #27aae1;
+	color: #fff;
+	text-align: center;
+    padding: 20px;
+    height: 270px;}
+#main-footer a{
+    color: #ffffff;
+}
+
